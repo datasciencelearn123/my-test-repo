@@ -1,6 +1,6 @@
 # my-test-repo
 ## introduction
-in this section we intiduce our project.
+in this section we introduce our project.
 ### section one
 list:
 * first...
